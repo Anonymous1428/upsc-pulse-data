@@ -1,0 +1,520 @@
+{
+  "date": "16 January 2026",
+  "total_news_items": 20,
+  "news_items": [
+    {
+      "id": 1,
+      "title": "Maharashtra Municipal Corporation Elections: Mahayuti Alliance Crosses Majority in BMC",
+      "category": "Politics - Electoral Matters",
+      "description": "Vote counting for 29 Maharashtra municipal corporations completed on January 16, 2026. The BJP-led Mahayuti alliance (BJP, Shiv Sena-Shinde, NCP-Ajit Pawar) crossed the majority mark of 114 seats in BMC, defeating the Thackeray-led alliance. This is the first BMC election since the 2022 Shiv Sena split, ending nearly 3 years of administrator-led governance in India's richest civic body.",
+      "upsc_significance": "GS2 - Functions of Union and States; Devolution of powers to local bodies; Urban governance; Issues relating to local self-government",
+      "source": "India TV News, Outlook India",
+      "priority": "high",
+      "key_data": {
+        "total_bmc_seats": 227,
+        "majority_mark": 114,
+        "voter_turnout": "52.94%",
+        "bmc_budget": "₹74,400 crore",
+        "total_candidates": 15931,
+        "eligible_voters": "3.48 crore"
+      }
+    },
+    {
+      "id": 2,
+      "title": "28th CSPOC Conference Concludes in New Delhi with 42 Commonwealth Nations",
+      "category": "Politics - Parliamentary Affairs",
+      "description": "The 28th Conference of Speakers and Presiding Officers of the Commonwealth concluded in New Delhi with 61 Speakers from 42 Commonwealth countries. PM Modi inaugurated the conference at Samvidhan Sadan. Key themes included AI in Parliament and Social Media's impact on parliamentarians. Chair handed over from Om Birla to UK's Sir Lindsay Hoyle.",
+      "upsc_significance": "GS2 - Parliament structure and functioning; International organizations; Commonwealth relations",
+      "source": "PIB, Tribune India",
+      "priority": "medium",
+      "key_data": {
+        "participants": "61 Speakers from 42 countries",
+        "india_last_hosted": 2010
+      }
+    },
+    {
+      "id": 3,
+      "title": "National Startup Day 2026: PM Modi Marks 10 Years of Startup India Initiative",
+      "category": "Governance - Economic Policy",
+      "description": "On National Startup Day (January 16, 2026), PM Modi participated in a special programme at Bharat Mandapam marking a decade of Startup India initiative launched on January 16, 2016. India now has over 200,000 recognized startups, making it the world's 3rd largest startup ecosystem. Industry leaders emphasized shift toward purpose-driven enterprises.", 
+      "upsc_significance": "GS3 - Economic Development; Industrial policy changes; Indigenization of technology and innovation ecosystem",
+      "source": "PIB, News9 Live",
+      "priority": "medium",
+      "key_data": {
+        "recognized_startups": "200,000+",
+        "global_ranking": "3rd largest ecosystem",
+        "fdi_last_6_months": "$51 billion",
+        "initiative_launch": "January 16, 2016"
+      }
+    },
+    {
+      "id": 4,
+      "title": "NITI Aayog Report Recommends MSME Scheme Convergence for Enhanced Efficiency",
+      "category": "Governance - Policy",
+      "description": "NITI Aayog released a comprehensive report recommending convergence of 18 centrally administered MSME schemes to reduce duplication and improve last-mile delivery. Key recommendations include AI-enabled single MSME portal, cluster scheme convergence (SFURTI with MSE-CDP), and 3-tier skill programme rationalization.",
+      "upsc_significance": "GS2 - Government policies for development; GS3 - Industrial policy; MSMEs in Indian economy",
+      "source": "PIB, InsightsOnIndia",
+      "priority": "high",
+      "key_data": {
+        "msme_gdp_contribution": "29-30%",
+        "msme_employment": "28.7 crore",
+        "msme_export_share": "45-46%",
+        "total_msmes": "6.3+ crore",
+        "rural_msmes": "51%",
+        "schemes_analyzed": 18,
+        "budget_growth": "₹6,717 crore (2019-20) to ₹22,094 crore (2023-24)"
+      }
+    },
+    {
+      "id": 5,
+      "title": "IMF to Upgrade India's Growth Forecast; Economy Remains Global Growth Engine",
+      "category": "Economy - GDP & Growth",
+      "description": "The IMF indicated a likely upward revision of India's growth forecast in the upcoming World Economic Outlook update. IMF spokesperson Julie Kozack noted India's Q2 and Q3 economic data outperformed expectations. NSO's First Advance Estimate projects 7.4% GDP growth for FY26, while RBI projects 7.3%.",
+      "upsc_significance": "GS3 - Indian Economy; Macroeconomic indicators; Growth and development",
+      "source": "Business Standard",
+      "priority": "high",
+      "key_data": {
+        "imf_current_estimate_fy26": "6.6%",
+        "nso_advance_estimate_fy26": "7.4%",
+        "rbi_projection_fy26": "7.3%",
+        "q1_fy26_gdp": "7.8%",
+        "q2_fy26_gdp": "8.2%",
+        "rbi_inflation_forecast": "2.0%",
+        "gdp_deflator": "0.5% (5-decade low)"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Indian Rupee Declines to 90.44 Against US Dollar Amid FII Outflows",
+      "category": "Economy - Currency/Forex",
+      "description": "The Indian rupee extended its weakness for the third consecutive session, losing 10 paise to trade at 90.44 against the US dollar. The decline was driven by continued foreign fund outflows and a firm greenback, though lower crude oil prices and positive equity sentiment prevented a steeper fall.",
+      "upsc_significance": "GS3 - External Sector; Balance of Payments; Foreign Exchange Management",
+      "source": "News9Live, PTI",
+      "priority": "high",
+      "key_data": {
+        "rupee_rate": "90.44/USD",
+        "fii_selling_jan14": "₹4,781.24 crore",
+        "dollar_index": 99.10,
+        "brent_crude": "$63.54/barrel",
+        "trade_deficit_december": "$25.04 billion"
+      }
+    },
+    {
+      "id": 7,
+      "title": "India's Trade Deficit Widens to $25.04 Billion in December; Exports to Cross $850 Billion",
+      "category": "Economy - Trade",
+      "description": "India's merchandise trade deficit widened to USD 25.04 billion in December 2025. Exports grew 1.8% while imports surged 8.7%. Commerce Secretary expressed confidence that total exports (goods + services) will cross USD 850 billion in FY26. Services trade surplus stood at $18.12 billion.",
+      "upsc_significance": "GS3 - External Trade; Balance of Trade; Foreign Trade Policy",
+      "source": "Business Standard, Reuters",
+      "priority": "high",
+      "key_data": {
+        "december_exports": "$38.51 billion",
+        "december_imports": "$63.55 billion",
+        "december_deficit": "$25.04 billion",
+        "services_surplus": "$18.12 billion",
+        "apr_dec_exports": "$634.26 billion",
+        "fy26_target": "$850 billion+",
+        "us_tariffs_on_india": "50%",
+        "china_trade_deficit": "$116 billion annual"
+      }
+    },
+    {
+      "id": 8,
+      "title": "India-France ₹3.25 Lakh Crore Rafale Manufacturing Deal Advances",
+      "category": "Defense - Acquisition",
+      "description": "India is finalizing a historic defense manufacturing agreement with France for domestic production of 114 Rafale fighter jets valued at approximately ₹3.25 lakh crore. 18 jets will be delivered fly-away while 96 will be manufactured in India with 60-80% indigenous content at Tata's Hyderabad facility and Dassault's Nagpur plant.", 
+      "upsc_significance": "GS2 - India-France Strategic Partnership; Defense diplomacy; GS3 - Defense indigenization; Atmanirbhar Bharat",
+      "source": "SSBCrackExams, Indian Defence News",
+      "priority": "high",
+      "key_data": {
+        "deal_value": "₹3.25 lakh crore (~$40 billion)",
+        "total_aircraft": 114,
+        "fly_away_jets": 18,
+        "made_in_india_jets": 96,
+        "indigenous_content": "60-80%"
+      }
+    },
+    {
+      "id": 9,
+      "title": "38th India-France Strategic Dialogue Held; Macron Visit Preparations Reviewed",
+      "category": "International Relations - Bilateral",
+      "description": "NSA Ajit Doval and French Diplomatic Adviser Emmanuel Bonne co-chaired the 38th India-France Strategic Dialogue in New Delhi. Discussions covered security, defense, technology, space, and civil nuclear cooperation. Preparations for President Macron's upcoming India visit were reviewed. India-France partnership began on January 26, 1998.",
+      "upsc_significance": "GS2 - India-France Strategic Partnership; Defense diplomacy; Bilateral mechanisms",
+      "source": "DD News, MEA",
+      "priority": "high",
+      "key_data": {
+        "dialogue_number": "38th",
+        "partnership_established": "January 26, 1998",
+        "areas_covered": "Security, Defence, Technology, Space, Civil Nuclear"
+      }
+    },
+    {
+      "id": 10,
+      "title": "India-EU FTA Negotiations Accelerate Ahead of January 27 Summit",
+      "category": "International Relations - Trade",
+      "description": "India and the EU are intensifying FTA negotiations ahead of the India-EU leaders' summit on January 27, 2026.  EU leaders von der Leyen and Costa will be chief guests at Republic Day.  This would be EU's largest trade deal with any country. Agriculture has been excluded from the agreement.", 
+      "upsc_significance": "GS2 - India-EU relations; Multilateral trade agreements; GS3 - Foreign trade policy",
+      "source": "IBEF, India Briefing",
+      "priority": "high",
+      "key_data": {
+        "summit_date": "January 27, 2026",
+        "eu_fdi_in_india": "$117.4 billion (April 2000-Sept 2024)",
+        "eu_fdi_share": "16.6% of total FDI",
+        "eu_companies_in_india": "~6,000",
+        "agriculture": "Excluded from FTA"
+      }
+    },
+    {
+      "id": 11,
+      "title": "22nd India-Japan Coast Guard High-Level Meeting; Mumbai Industrial Visit",
+      "category": "International Relations - Maritime Security",
+      "description": "Japan Coast Guard delegation visited Mumbai on January 16-17 as part of the 22nd India-Japan Coast Guard High-Level Meeting (January 13-17, 2026). The visit included industrial tour of Mazagon Dock Shipbuilders and joint HNS spill response exercises. Discussions covered Maritime SAR, Marine Pollution Response, and Law Enforcement.",
+      "upsc_significance": "GS2 - India-Japan bilateral relations; Indo-Pacific strategy; GS3 - Maritime security",
+      "source": "PIB, ANI",
+      "priority": "medium",
+      "key_data": {
+        "meeting_number": "22nd High-Level Meeting",
+        "visit_duration": "January 13-17, 2026",
+        "industrial_visit": "Mazagon Dock Shipbuilders"
+      }
+    },
+    {
+      "id": 12,
+      "title": "DRDO Achieves 12-Minute Scramjet Engine Test for Hypersonic Missile Programme",
+      "category": "Science & Technology - Defense",
+      "description": "DRDO successfully conducted a long-duration ground test of full-scale scramjet engine achieving sustained runtime of over 12 minutes at DRDL Hyderabad. This foundational achievement supports India's Hypersonic Cruise Missile Development Programme. Scramjet engines enable speeds exceeding Mach 5.", 
+      "upsc_significance": "GS3 - Achievements in S&T; Indigenization of technology; Defense technology; Security challenges",
+      "source": "PIB, Business Standard",
+      "priority": "high",
+      "key_data": {
+        "test_runtime": "12+ minutes",
+        "speed_capability": "Mach 5+ (>6,100 km/h)",
+        "project_vishnu": "Mach 8, 1,500 km range",
+        "test_location": "DRDL, Hyderabad"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Amended Forest Conservation Guidelines Allow Private Participation in Restoration",
+      "category": "Environment - Policy",
+      "description": "MoEFCC amended guidelines under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 to allow non-government participation in restoring degraded forest land. Key changes include reclassification of plantations as forestry activity, exemption from Compensatory Afforestation and Net Present Value charges.",
+      "upsc_significance": "GS2 - Environmental governance; GS3 - Conservation; Forests; Environmental degradation",
+      "source": "Deccan Herald, InsightsIAS",
+      "priority": "high",
+      "key_data": {
+        "degraded_forest_area": "2.08 lakh sq. km",
+        "national_forest_policy_target": "33% forest cover",
+        "exemptions": "CA and NPV charges waived"
+      }
+    },
+    {
+      "id": 14,
+      "title": "India Achieves 51% Non-Fossil Fuel Capacity, Meets NDC Target 5 Years Early",
+      "category": "Environment - Renewable Energy",
+      "description": "India achieved historic power sector milestones with 51% non-fossil fuel installed capacity, meeting the NDC target of 50% nearly five years ahead of the 2030 deadline. Total installed capacity reached 509.74 GW with renewable energy at 253.96 GW. India ranks 3rd globally in solar and 4th in wind power.",
+      "upsc_significance": "GS3 - Infrastructure; Energy; Conservation; Climate Action; NDC commitments; Paris Agreement",
+      "source": "PIB, SolarQuarter",
+      "priority": "high",
+      "key_data": {
+        "total_capacity": "509.74 GW",
+        "non_fossil_share": "51%",
+        "renewable_capacity": "253.96 GW",
+        "solar_capacity": "132.85 GW (41% YoY growth)",
+        "wind_capacity": "51.6 GW",
+        "peak_demand_met": "242.49 GW",
+        "target_2030": "500 GW renewable",
+        "battery_storage_2026": "~5 GWh"
+      }
+    },
+    {
+      "id": 15,
+      "title": "India-Israel Sign Joint Declaration on Fisheries and Blue Economy",
+      "category": "International Relations - Bilateral",
+      "description": "India and Israel signed a Joint Ministerial Declaration to deepen cooperation in fisheries and aquaculture during the Global Summit on Blue Food Security 2026 in Eilat. The agreement focuses on technology transfer, joint research, and capacity building for sustainable aquaculture including RAS, biofloc, cage culture, and seaweed farming.",
+      "upsc_significance": "GS2 - Bilateral relations; GS3 - Blue Economy; Food security; Technology in fisheries",
+      "source": "DD News, PIB",
+      "priority": "medium",
+      "key_data": {
+        "fisheries_gdp_contribution": "~1%",
+        "technologies": "RAS, biofloc, cage culture, aquaponics, mariculture"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Jharkhand Notifies PESA Rules 25 Years After Statehood - Historic Tribal Governance Reform",
+      "category": "Social Issues - Tribal Welfare",
+      "description": "Jharkhand government notified PESA (Panchayat Extension to Scheduled Areas) Rules on January 3, 2026, empowering tribal Gram Sabhas with decision-making authority over land, water, forest resources, and governance. The rules cover 13 full districts with 16,022 villages and require mandatory Gram Sabha consent for land acquisition.",
+      "upsc_significance": "GS2 - Fifth Schedule, PESA Act 1996, Panchayati Raj, Tribal self-governance; GS1 - Tribal communities",
+      "source": "Down to Earth, The Print",
+      "priority": "high",
+      "key_data": {
+        "districts_full_coverage": 13,
+        "districts_partial": 3,
+        "villages_covered": 16022,
+        "panchayats": 2074,
+        "tribal_population": "26.3%",
+        "tribal_communities": "32 (including 8 PVTGs)"
+      }
+    },
+    {
+      "id": 17,
+      "title": "WEF Global Risks Report 2026: Geoeconomic Confrontation Tops Short-Term Risks",
+      "category": "International - Global Governance",
+      "description": "The World Economic Forum's Global Risks Report 2026 ranked geoeconomic confrontation as the world's top short-term risk, overtaking armed conflict. AI adverse outcomes ranked 30th in 2-year horizon but rises to 5th in 10-year. Environmental threats persist with biodiversity loss as top long-term risk.", 
+      "upsc_significance": "GS2 - Important International institutions; GS3 - Environment, Climate, Disaster Management, S&T",
+      "source": "NDTV, InsightsIAS",
+      "priority": "medium",
+      "key_data": {
+        "top_short_term_risk": "Geoeconomic confrontation",
+        "extreme_weather_rank": "4th (down from 2nd)",
+        "ai_rank_10_year": "5th",
+        "india_heat_stress_gdp_impact": "4-6% annually"
+      }
+    },
+    {
+      "id": 18,
+      "title": "Indian Defence Firm Secures Army and Navy Orders for Indigenous Anti-Drone System",
+      "category": "Defense - Indigenous Manufacturing",
+      "description": "A Noida-based Indian defense company secured orders from both Indian Army and Navy for the domestically developed IG T-Shul Pulse Anti-Drone System. The lightweight, portable electronic warfare jammer can neutralize hostile drones within 2-kilometer range, boosting indigenous counter-UAS capabilities.", 
+      "upsc_significance": "GS3 - Counter-drone technology; Indigenous defense production; Internal security",
+      "source": "SSBCrackExams",
+      "priority": "medium",
+      "key_data": {
+        "system": "IG T-Shul Pulse",
+        "range": "2 kilometers",
+        "type": "Handheld electronic warfare jammer",
+        "post_operation_sindoor_procurement": "₹5,000+ crore"
+      }
+    },
+    {
+      "id": 19,
+      "title": "Lakshya Sen Only Indian to Reach Quarterfinals at BWF India Open 2026",
+      "category": "Sports - Badminton",
+      "description": "Lakshya Sen advanced to quarterfinals of the BWF India Open Super 750 tournament at Indira Gandhi Arena, defeating world No. 13 Kenta Nishimoto (Japan) 21-19, 21-10.  Other top Indian shuttlers including Satwik-Chirag, PV Sindhu, and HS Prannoy were eliminated in earlier rounds.",
+      "upsc_significance": "GS1 - Sports achievements; GS2 - Government sports promotion initiatives",
+      "source": "ESPN India",
+      "priority": "medium",
+      "key_data": {
+        "tournament": "BWF India Open Super 750",
+        "venue": "Indira Gandhi Arena, New Delhi",
+        "score": "21-19, 21-10"
+      }
+    },
+    {
+      "id": 20,
+      "title": "Key Government Appointments: New NIA and BSF Director Generals Named",
+      "category": "Governance - Appointments",
+      "description": "The Appointments Committee of Cabinet approved key security appointments including Rakesh Aggarwal (IPS, 1994 HP cadre) as NIA Director General and Praveen Kumar as BSF Director General. Air Marshal Nagesh Kapoor assumed charge as Vice Chief of Air Staff, IAF.",
+      "upsc_significance": "GS2 - Security agencies (NIA, BSF); Administrative structure; Appointments",
+      "source": "Adda247, SSB Crack Exams",
+      "priority": "medium",
+      "key_data": {
+        "nia_dg": "Rakesh Aggarwal",
+        "bsf_dg": "Praveen Kumar",
+        "vcas_iaf": "Air Marshal Nagesh Kapoor"
+      }
+    }
+  ],
+  "editorial_topics": [
+    {
+      "topic": "MGNREGA Gave Women Freedom - New Law May Not",
+      "newspaper": "Indian Express",
+      "upsc_syllabus": "GS2 - Government policies and interventions; Social Justice; Women empowerment"
+    },
+    {
+      "topic": "India Needs to Accelerate EU FTA in Year of Unpredictability",
+      "newspaper": "Indian Express",
+      "upsc_syllabus": "GS2 - Effect of policies of developed/developing countries on India; Trade agreements"
+    },
+    {
+      "topic": "Trump Has Shown India Needs a New Foreign Policy Plan",
+      "newspaper": "Indian Express (Shyam Saran)",
+      "upsc_syllabus": "GS2 - India and its neighborhood; Effect of international policies; India-US relations"
+    },
+    {
+      "topic": "India's Focus on AI and Its Environmental Impact",
+      "newspaper": "The Hindu",
+      "upsc_syllabus": "GS3 - Environmental pollution; Awareness in IT; GS4 - Ethics in AI governance"
+    },
+    {
+      "topic": "Climate-Resilient Agriculture: Scaling India's Efforts",
+      "newspaper": "The Hindu",
+      "upsc_syllabus": "GS3 - Agriculture; Climate Change Adaptation; Food Security"
+    }
+  ],
+  "key_data_points": {
+    "economy": {
+      "gdp_growth": {
+        "imf_fy26_estimate": "6.6%",
+        "nso_advance_estimate_fy26": "7.4%",
+        "rbi_projection_fy26": "7.3%",
+        "q1_fy26": "7.8%",
+        "q2_fy26": "8.2%"
+      },
+      "inflation": {
+        "rbi_forecast_fy26": "2.0%",
+        "gdp_deflator": "0.5% (5-decade low)"
+      },
+      "forex_currency": {
+        "rupee_per_usd": "90.44",
+        "dollar_index": "99.10"
+      },
+      "trade": {
+        "december_exports": "$38.51 billion",
+        "december_imports": "$63.55 billion",
+        "december_deficit": "$25.04 billion",
+        "services_surplus_december": "$18.12 billion",
+        "apr_dec_exports": "$634.26 billion",
+        "fy26_export_target": "$850 billion+",
+        "china_trade_deficit": "$116 billion annual",
+        "us_tariffs_on_india": "50%"
+      },
+      "stock_markets": {
+        "sensex": "83,762.79",
+        "nifty50": "25,766.50"
+      },
+      "msme_sector": {
+        "gdp_contribution": "29-30%",
+        "employment": "28.7 crore",
+        "export_share": "45-46%",
+        "total_msmes": "6.3+ crore",
+        "budget_growth": "₹6,717 cr to ₹22,094 cr (2019-2024)"
+      },
+      "fdi": {
+        "last_6_months": "$51 billion",
+        "eu_fdi_total": "$117.4 billion (2000-2024)"
+      },
+      "crude_oil": {
+        "brent": "$63.54/barrel"
+      }
+    },
+    "environment": {
+      "renewable_energy": {
+        "total_capacity": "253.96 GW",
+        "solar_capacity": "132.85 GW (41% YoY growth)",
+        "wind_capacity": "51.6 GW",
+        "non_fossil_share": "51%",
+        "target_2030": "500 GW renewable",
+        "battery_storage_2026": "~5 GWh"
+      },
+      "power_sector": {
+        "total_installed_capacity": "509.74 GW",
+        "peak_demand_met": "242.49 GW"
+      },
+      "forest": {
+        "degraded_area": "2.08 lakh sq. km",
+        "national_policy_target": "33% cover"
+      },
+      "climate": {
+        "ndc_target_achieved": "50% non-fossil (achieved 5 years early)",
+        "heat_stress_gdp_impact": "4-6% annually"
+      }
+    },
+    "defense": {
+      "rafale_deal": {
+        "value": "₹3.25 lakh crore (~$40 billion)",
+        "total_jets": 114,
+        "made_in_india": 96,
+        "indigenous_content": "60-80%"
+      },
+      "scramjet_test": {
+        "duration": "12+ minutes",
+        "speed": "Mach 5+ (>6,100 km/h)"
+      },
+      "anti_drone_system": {
+        "range": "2 km",
+        "post_operation_sindoor_procurement": "₹5,000+ crore"
+      }
+    },
+    "social": {
+      "startups": {
+        "recognized_startups": "200,000+",
+        "global_ranking": "3rd largest ecosystem"
+      },
+      "tribal_pesa": {
+        "jharkhand_coverage": "13 districts full, 3 partial",
+        "villages": 16022,
+        "panchayats": 2074,
+        "tribal_population": "26.3%",
+        "tribal_communities": "32 (8 PVTGs)"
+      },
+      "bmc_elections": {
+        "total_seats": 227,
+        "voter_turnout": "52.94%",
+        "budget": "₹74,400 crore"
+      }
+    }
+  },
+  "key_themes_for_mains": [
+    {
+      "theme": "India's Strategic Autonomy Through Defense Indigenization and Diversified Partnerships",
+      "description": "Multiple developments today highlight India's pursuit of strategic autonomy - the ₹3.25 lakh crore Rafale deal emphasizes Make in India (60-80% indigenous content), DRDO's scramjet breakthrough demonstrates indigenous hypersonic capability, and indigenous anti-drone systems are being procured by armed forces. Simultaneously, India is deepening partnerships with France (38th Strategic Dialogue), Japan (Coast Guard cooperation), and EU (FTA negotiations).",
+      "related_news_ids": [8, 9, 10, 11, 12, 18],
+      "mains_relevance": "GS2 - Bilateral relations and defense diplomacy; GS3 - Indigenization of technology and self-reliance in defense",
+      "answer_framework": [
+        "Define strategic autonomy in Indian context - multi-alignment while building indigenous capabilities",
+        "Discuss defense indigenization efforts - Make in India, transfer of technology, offset clauses",
+        "Analyze diversified partnerships - France, Japan, EU, Israel as counterbalance to over-dependence",
+        "Evaluate progress - DRDO achievements (scramjet), private sector participation (Tata, Reliance)",
+        "Challenges - technology absorption, export restrictions, capacity building",
+        "Way forward - balance between self-reliance and strategic partnerships"
+      ]
+    },
+    {
+      "theme": "Governance Reforms for Inclusive Development - PESA, MSME Convergence, and Decentralization",
+      "description": "Three significant governance developments connect today: Jharkhand's PESA Rules implementation after 25 years empowers tribal Gram Sabhas with self-governance; NITI Aayog's MSME convergence report addresses scheme fragmentation affecting 6.3 crore enterprises; Maharashtra's municipal elections restore local democratic governance after 3 years of administrator rule. All three emphasize decentralization and efficiency.",
+      "related_news_ids": [1, 4, 16],
+      "mains_relevance": "GS2 - Governance, devolution of powers, Panchayati Raj, local self-government, tribal welfare",
+      "answer_framework": [
+        "Constitutional mandate for decentralization - 73rd/74th Amendments, Fifth Schedule, Article 244",
+        "PESA significance - tribal self-governance, Forest Rights Act linkage, 25-year delay analysis",
+        "Urban governance challenges - administrator rule vs elected bodies, fiscal autonomy",
+        "Policy convergence need - scheme proliferation, last-mile delivery gaps, digital solutions",
+        "Cooperative federalism - center-state-local coordination",
+        "Conclusion - true federalism requires empowered local bodies"
+      ]
+    },
+    {
+      "theme": "India's Green Energy Transition and Climate Leadership",
+      "description": "India achieved 51% non-fossil fuel capacity, meeting NDC target 5 years ahead of 2030. This connects with amended forest conservation guidelines (enabling private participation in restoration of 2.08 lakh sq. km degraded forests), WEF report highlighting climate risks (4-6% GDP loss from heat stress), and the editorial on AI's environmental impact demanding expanded EIA frameworks.",
+      "related_news_ids": [13, 14, 17],
+      "mains_relevance": "GS3 - Conservation, environmental pollution, climate change, renewable energy; Infrastructure and energy",
+      "answer_framework": [
+        "India's NDC achievements - 51% non-fossil capacity, 253.96 GW renewables, global rankings",
+        "Policy interventions - forest conservation amendments, private participation model",
+        "Remaining challenges - grid integration, storage (5 GWh target), land acquisition",
+        "New frontiers - AI environmental impact, need for expanded EIA frameworks",
+        "Economic co-benefits - green jobs, energy security, reduced import dependence",
+        "Leadership role - G20 initiatives, International Solar Alliance, voice for Global South"
+      ]
+    },
+    {
+      "theme": "External Sector Dynamics - Rupee Depreciation, Trade Deficit, and Global Economic Headwinds",
+      "description": "The rupee's decline to 90.44/USD amid FII outflows, widening trade deficit ($25.04 billion in December), and 50% US tariffs on Indian goods reflect interconnected external sector challenges. The WEF report's identification of geoeconomic confrontation as top global risk, combined with urgent India-EU FTA negotiations, demonstrates India's strategy to diversify trade partnerships amid protectionism.",
+      "related_news_ids": [5, 6, 7, 10, 17],
+      "mains_relevance": "GS3 - External sector, balance of payments, foreign trade policy; GS2 - Effect of international policies on India",
+      "answer_framework": [
+        "Current external sector situation - rupee at 90.44, trade deficit analysis, FII outflows",
+        "Global context - US tariffs (50%), geoeconomic confrontation, de-globalization trends",
+        "Impact on India - import costs, current account, inflation transmission",
+        "Policy responses - RBI interventions, FTA diversification (EU), services surplus strength",
+        "Structural reforms needed - export competitiveness, PLI schemes, trade facilitation",
+        "Conclusion - building resilience through diversification and domestic manufacturing"
+      ]
+    },
+    {
+      "theme": "Startup Ecosystem Evolution and MSME-Led Employment Generation",
+      "description": "National Startup Day marks 10 years of Startup India with 200,000+ recognized startups, while NITI Aayog's MSME convergence report highlights the sector employing 28.7 crore people and contributing 30% to GDP. The shift toward purpose-driven enterprises (healthcare, sustainability, deep tech) and the $51 billion FDI inflow in 6 months demonstrate maturing of India's entrepreneurial ecosystem.",
+      "related_news_ids": [3, 4],
+      "mains_relevance": "GS3 - Industrial policy, economic development, employment generation; GS2 - Government policies for promoting entrepreneurship",
+      "answer_framework": [
+        "Startup India journey - 2016 launch, 200,000+ startups, 3rd largest ecosystem globally",
+        "Evolution - from unicorn chase to purpose-driven enterprises (healthcare, climate, deep tech)",
+        "MSME significance - 28.7 crore employment, 30% GDP, 46% exports, rural linkage",
+        "Policy interventions - Fund of Funds, tax benefits, regulatory easing, 75 Grand Challenges",
+        "Convergence need - scheme rationalization, single-window platforms, skill alignment",
+        "Future trajectory - deep tech, GCCs, manufacturing startups, Tier-2/3 expansion"
+      ]
+    }
+  ]
+}
