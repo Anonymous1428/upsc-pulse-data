@@ -1,0 +1,333 @@
+{
+  "date": "15 January 2026",
+  "total_news_items": 18,
+  "news_items": [
+    {
+      "id": 1,
+      "title": "PM Modi Inaugurates 28th Commonwealth Speakers and Presiding Officers Conference",
+      "category": "Politics & Governance",
+      "description": "Prime Minister Narendra Modi inaugurated the 28th CSPOC at Samvidhan Sadan, New Delhi, with Speakers from 53 national parliaments.  PM Modi announced India's readiness to share its Digital Public Infrastructure (DPI) with Commonwealth nations  and highlighted 'Sansad Bhashini' - AI-enabled real-time interpretation for MPs to speak in mother tongues.", 
+      "upsc_significance": "GS-II: Parliament functioning, Presiding Officers' role, India-Commonwealth relations. Key topics: E-governance initiatives, DPI as diplomatic soft power, 'Mother of Democracy' narrative. Important: UPI processes 18 billion+ transactions monthly - potential Prelims fact.", 
+      "source": "PM India Website, ANI News",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "title": "Maharashtra Civic Body Elections: Voting for 29 Municipal Corporations",
+      "category": "Politics & Governance",
+      "description": "Maharashtra witnessed historic elections for 29 municipal corporations including BMC - India's largest civic body. Approximately 3.48 crore voters were eligible across 2,869 seats. Key contest between Mahayuti alliance (BJP-led) and Maha Vikas Aghadi. Voter turnout ranged 51-61%.", 
+      "upsc_significance": "GS-II: Urban Local Bodies, 74th Constitutional Amendment, State Election Commission functions. Key angles: Devolution of powers to ULBs, Municipal Corporation structure, Role of SEC distinct from ECI. BMC has 227 wards with majority mark at 114 seats.", 
+      "source": "India TV News, Outlook India",
+      "priority": "high"
+    },
+    {
+      "id": 3,
+      "title": "78th Army Day Celebrated: Historic Parade in Jaipur",
+      "category": "Defense & Security",
+      "description": "India commemorated 78th Army Day marking Field Marshal K.M. Cariappa becoming first Indian C-in-C on January 15, 1949.  The parade was held in Jaipur - first ever outside a cantonment area. COAS General Upendra Dwivedi declared 2026-27 as 'Years of Networking and Data Centricity' for Army modernization.",
+      "upsc_significance": "GS-III: Role of Armed Forces, Defense modernization. Key facts: January 15, 1949 - FM Cariappa took over from Gen. Bucher.  Exam angles: Theatre commands, Army restructuring, network-centric warfare, civil-military relations.",
+      "source": "ANI News, Republic World",
+      "priority": "high"
+    },
+    {
+      "id": 4,
+      "title": "Government Approves Integrated Battle Groups Formation",
+      "category": "Defense & Security",
+      "description": "Centre approved formation of Integrated Battle Groups (IBGs) - the most significant Army reorganization since 2020 India-China tensions. First IBGs will be formed under China-focused 17 Mountain Strike Corps  at Panagarh. Government approved 31 structural reform letters over 14-15 months for this transformation.", 
+      "upsc_significance": "GS-III: Security challenges along borders, Armed forces modernization. Each IBG: ~5,000 troops under Major General, 48-hour mobilization capability.  New units include Rudra Brigades, Bhairav Battalions, Shaktibaan Regiments.  Timeline: Full rollout by 2029.", 
+      "source": "ThePrint, The Tribune, Indian Express",
+      "priority": "high"
+    },
+    {
+      "id": 5,
+      "title": "India-EU Free Trade Agreement Talks Nearing Conclusion",
+      "category": "Economy & International Relations",
+      "description": "India and EU expected to conclude FTA negotiations on January 27, 2026 during EU leadership's state visit. Both sides have concluded 20 out of 24 chapters. 'Sensitive' agricultural issues kept off table. India-EU bilateral trade stood at $136.53 billion in 2024-25.",
+      "upsc_significance": "GS-II: Bilateral trade agreements. GS-III: International trade, Export-Import policy. Key angles: FTAs in trade diversification, CBAM implications, impact of US 50% tariffs driving India toward EU. India's exports to EU: $75.85 billion; imports: $60.68 billion.",
+      "source": "Business Standard",
+      "priority": "high"
+    },
+    {
+      "id": 6,
+      "title": "RBI Governor on New CPI and GDP Series Release",
+      "category": "Economy",
+      "description": "RBI Governor Sanjay Malhotra stated that new base year revisions for CPI (base 2024), GDP (base 2022-23), and IIP will help RBI balance inflation and growth objectives. New CPI series releases February 12, new GDP series on February 27, 2026. Current repo rate at 5.25%  after 125 bps cuts in FY26.",
+      "upsc_significance": "GS-III: Monetary policy, Inflation targeting, National income accounting. Key data: December 2025 CPI at 1.33%, RBI FY26 inflation forecast 2.0%, GDP growth projection 7.3%. Important for understanding statistical reforms and policy calibration.",
+      "source": "Business Today",
+      "priority": "high"
+    },
+    {
+      "id": 7,
+      "title": "India's December 2025 Trade Data: Exports Rise Despite US Tariffs",
+      "category": "Economy",
+      "description": "India's merchandise exports grew 1.8% to $38.51 billion in December 2025 despite 50% US tariffs. Imports surged 8.7% to $63.55 billion, widening trade deficit to $25.04 billion. Total exports projected to cross $850 billion in FY26. Electronics (+16%), pharmaceuticals (+5.65%), marine products (+11%) showed strong growth.",
+      "upsc_significance": "GS-III: External sector, Balance of trade, Export promotion. Key figures: April-December 2025 total exports $634.26 billion (+4.33%). Services exports offsetting goods deficit. Exam angles: Trade diversification strategy, PLI scheme effectiveness, Make in India impact.",
+      "source": "Business Standard, ANI News",
+      "priority": "high"
+    },
+    {
+      "id": 8,
+      "title": "Unemployment Rate Rises Marginally to 4.8% in December 2025",
+      "category": "Economy",
+      "description": "India's unemployment rate increased to 4.8% in December 2025 from 4.7% in November (lowest since 2018), per PLFS data. Rural unemployment stable at 3.9%; urban rose to 6.7%. LFPR improved to 56.1%, WPR to 53.4%, indicating increased labour market participation.",
+      "upsc_significance": "GS-III: Employment and unemployment, Inclusive growth. Key concepts: PLFS methodology, LFPR (Labour Force Participation Rate), WPR (Worker Population Ratio). Gender gap: Urban female unemployment at 9.1%. Historical average (2018-2025): 8.04%.",
+      "source": "Business Standard, MoSPI/NSO",
+      "priority": "medium"
+    },
+    {
+      "id": 9,
+      "title": "India to Become World's Second-Largest Solar Market in 2026",
+      "category": "Science, Technology & Environment",
+      "description": "BloombergNEF report projects India will overtake the US as world's second-largest solar market in 2026, adding 50+ GW solar capacity (6% YoY increase). US solar installations projected to decline 14% to 44 GW. India's renewable capacity (solar + wind) has crossed 180 GW.",
+      "upsc_significance": "GS-III: Environment - Conservation, Clean energy transition. Key targets: 500 GW renewable by 2030, Net-Zero 2070. Module manufacturing capacity: ~125 GW/year. Battery storage to rise to ~5 GWh from 507 MWh. Links to NDC commitments and energy security.",
+      "source": "Energetica India, BloombergNEF",
+      "priority": "high"
+    },
+    {
+      "id": 10,
+      "title": "Environment Minister Highlights Forest Conservation at Pollution Conclave",
+      "category": "Environment",
+      "description": "Union Minister Bhupender Yadav at India TV's 'Pollution Ka Solution Conclave' emphasized forest cover expansion as key to tackling pollution and climate change. India achieved 51% non-fossil fuel capacity (495 GW) by June 2025 - exceeding 50% NDC target. Committed to 2.5-3 billion tonnes CO2-equivalent carbon sink by 2030.",
+      "upsc_significance": "GS-III: Environmental pollution, Forest conservation, Climate change. Key achievement: Exceeded non-fossil fuel capacity target of 50%. Emissions intensity reduction: ~36% achieved by 2020 against 33-35% target for 2030. Important for NDC and Paris Agreement questions.",
+      "source": "India TV News",
+      "priority": "high"
+    },
+    {
+      "id": 11,
+      "title": "IIT Indore Develops 'Charak DT Platform' - AI-Powered Human Digital Twin",
+      "category": "Science & Technology",
+      "description": "At MP Regional AI Impact Conference 2026 in Bhopal, IIT Indore showcased 'Charak DT Platform' - an AI-powered human body replica for disease detection. Developed under National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS), currently validated by AIIMS Bhopal, Delhi, and Raipur.",
+      "upsc_significance": "GS-III: S&T developments, AI applications in healthcare. Key concepts: Digital Twin technology, Cyber-Physical Systems. Developed by Drishti CPS with DST support. Links to IndiaAI Mission, Digital Public Infrastructure, preventive healthcare.",
+      "source": "New Kerala, ANI",
+      "priority": "medium"
+    },
+    {
+      "id": 12,
+      "title": "Tamil Nadu to Create Vulture Safe Zones in Nilgiris",
+      "category": "Environment",
+      "description": "Tamil Nadu Forest Department informed Madras High Court it is creating Vulture Safe Zones (VSZs) starting with Moyar River Valley in Nilgiris Biosphere Reserve. Initiative aims to protect vultures from toxic veterinary drugs like diclofenac. India's vulture population crashed 97-99% in 1990s-2000s.",
+      "upsc_significance": "GS-III: Biodiversity conservation, Wildlife Protection. Prelims important: 4 Critically Endangered vulture species (Indian, Slender-billed, White-rumped, Red-headed). IUCN categories, diclofenac ban history, ecosystem services of vultures as scavengers.",
+      "source": "The Hindu, News on Air",
+      "priority": "medium"
+    },
+    {
+      "id": 13,
+      "title": "Similipal National Park Records Rise in Crocodile Population",
+      "category": "Environment",
+      "description": "2026 crocodile census at Similipal National Park, Odisha recorded 84 mugger crocodiles, up from 81 in 2025, reversing declining trend. Similipal is UNESCO Biosphere Reserve since 2009, covering ~2,750 sq km in Mayurbhanj district. Recovery attributed to Ramtirtha Mugger Crocodile Breeding Centre.",
+      "upsc_significance": "GS-III: Biodiversity conservation. Prelims: Similipal is both Tiger Reserve and Biosphere Reserve. Key features: Barehipani Falls (217m), Joranda Falls (181m). Captive breeding programs and wildlife census methodologies for Mains.",
+      "source": "News on Air, InsightsIAS",
+      "priority": "low"
+    },
+    {
+      "id": 14,
+      "title": "New DG Appointments for NIA, ITBP, and BSF",
+      "category": "Appointments",
+      "description": "Major security appointments: Rakesh Aggarwal (1994-batch IPS) appointed NIA DG until August 2028;  Shatrujeet Singh Kapoor appointed ITBP DG; Praveen Kumar moved to BSF DG.  These appointments signal continuity in border management amid evolving China border dynamics.",
+      "upsc_significance": "GS-III: Internal Security, Various security forces. Key facts: ITBP guards India-China border (3,488 km), established 1962. BSF guards India-Pakistan (3,323 km) and India-Bangladesh (4,096 km) borders, established 1965. CAPFs structure important for Prelims.",
+      "source": "SSBCrackExams, PIB",
+      "priority": "high"
+    },
+    {
+      "id": 15,
+      "title": "Finance Ministry Launches 'Paripoorna Mediclaim Ayush Bima' for CGHS",
+      "category": "Social Welfare",
+      "description": "Ministry of Finance launched 'Paripoorna Mediclaim Ayush Bima' - health insurance exclusively for CGHS beneficiaries with coverage up to ₹20 lakh. Innovative co-payment options: 70:30 (28% discount) or 50:50 (42% discount). Cumulative bonus of 10% per claim-free year, max 100%.",
+      "upsc_significance": "GS-II: Government welfare schemes. GS-III: Insurance sector. Compare with Ayushman Bharat (₹5 lakh coverage). Key features: Indemnity-based, offered by New India Assurance. Exam angle: Health insurance models, co-payment mechanisms.",
+      "source": "SSBCrackExams",
+      "priority": "medium"
+    },
+    {
+      "id": 16,
+      "title": "UGC Notifies New Regulations Against Caste-Based Discrimination",
+      "category": "Social Issues",
+      "description": "UGC notified 'Promotion of Equity in Higher Education Institutions Regulations, 2026' to curb caste-based discrimination on campuses. Regulations now explicitly include SCs, STs, and OBCs. Mandatory Equal Opportunity Centres (EOCs) in all institutions; violating institutions can be debarred from offering degrees.",
+      "upsc_significance": "GS-II: Constitutional values (Articles 14, 15, 21), Statutory bodies. GS-I: Social stratification, caste discrimination. GS-IV: Ethics - Human dignity, institutional ethics. Key: EOCs mandatory, bi-annual reporting required, strong penalties.",
+      "source": "Insights on India, Indian Express",
+      "priority": "high"
+    },
+    {
+      "id": 17,
+      "title": "Nipah Virus Cases Reported in West Bengal",
+      "category": "Science & Technology - Health",
+      "description": "Two nurses in West Bengal tested positive for Nipah virus - one in coma, another on ventilator. Over 120 people isolated with emergency contact tracing underway. Nipah is a WHO Priority Pathogen with 40-75% case fatality rate, no specific antiviral or vaccine available.",
+      "upsc_significance": "GS-III: Disaster management, Science & Technology - Health. Key facts: Zoonotic virus from Pteropus fruit bats, incubation 4-14 days. Links to One Health approach, pandemic preparedness, BSL-4 facilities. WHO R&D Blueprint priority pathogen.",
+      "source": "The Hindu, InsightsIAS",
+      "priority": "medium"
+    },
+    {
+      "id": 18,
+      "title": "India Open Badminton 2026: Lakshya Sen Advances to Quarterfinals",
+      "category": "Sports",
+      "description": "At BWF India Open Super 750 at Indira Gandhi Indoor Stadium, Lakshya Sen was lone Indian to reach quarterfinals, defeating Japan's Kenta Nishimoto 21-19, 21-11. Top-seeded doubles pair Satwik-Chirag suffered shock exit, losing 27-25, 21-23, 19-21 to Japan's world No. 22 pair.",
+      "upsc_significance": "GS-I: Sports achievements. Prelims: India Open is BWF Super 750 tournament. Key results for sports current affairs section. India's badminton infrastructure and sports policy angles for Mains.",
+      "source": "ESPN, Outlook India",
+      "priority": "low"
+    }
+  ],
+  "editorial_topics": [
+    {
+      "topic": "Continued Custody in Delhi Riots Cases and UAPA Jurisprudence",
+      "newspaper": "The Hindu",
+      "upsc_syllabus": "GS-II: Fundamental Rights (Article 21), Criminal Justice System; GS-IV: Personal Liberty vs State Security"
+    },
+    {
+      "topic": "India's Minerals Diplomacy and Critical Minerals Strategy",
+      "newspaper": "The Hindu",
+      "upsc_syllabus": "GS-II: Bilateral Agreements; GS-III: Critical Minerals, Clean Energy Transition, Resource Security"
+    },
+    {
+      "topic": "Kashi-Tamil Sangamam: Celebrating India's Living Civilisational Unity",
+      "newspaper": "Indian Express (PM Modi's article)",
+      "upsc_syllabus": "GS-I: Art & Culture, Indian Heritage; GS-II: Ek Bharat Shreshtha Bharat, Cultural Integration Policy"
+    },
+    {
+      "topic": "How Capex Will Power India's Next Growth Phase (Budget 2026 Analysis)",
+      "newspaper": "Business Today",
+      "upsc_syllabus": "GS-III: Government Budgeting, Infrastructure Development, Economic Growth Models"
+    },
+    {
+      "topic": "AI and Its Environmental Impact - Balancing Innovation with Sustainability",
+      "newspaper": "InsightsIAS/Analysis",
+      "upsc_syllabus": "GS-III: Science & Technology, Environment - Carbon Footprint of Digital Infrastructure"
+    }
+  ],
+  "key_data_points": {
+    "economy": {
+      "India-EU bilateral trade (2024-25)": "$136.53 billion",
+      "India exports to EU": "$75.85 billion",
+      "India imports from EU": "$60.68 billion",
+      "December 2025 merchandise exports": "$38.51 billion (+1.8% YoY)",
+      "December 2025 merchandise imports": "$63.55 billion (+8.7% YoY)",
+      "December 2025 merchandise trade deficit": "$25.04 billion",
+      "FY26 export projection": "$850+ billion",
+      "April-December 2025 total exports": "$634.26 billion (+4.33% YoY)",
+      "December 2025 unemployment rate": "4.8%",
+      "November 2025 unemployment rate": "4.7% (lowest since 2018)",
+      "Rural unemployment": "3.9%",
+      "Urban unemployment": "6.7%",
+      "Urban female unemployment": "9.1%",
+      "LFPR December 2025": "56.1%",
+      "WPR December 2025": "53.4%",
+      "Current repo rate": "5.25% (after 125 bps cuts in FY26)",
+      "December 2025 CPI inflation": "1.33%",
+      "RBI FY26 inflation forecast": "2.0%",
+      "RBI FY26 GDP growth projection": "7.3%",
+      "Government FY26 GDP growth estimate": "7.4%", 
+      "Electronics exports growth": "+16%",
+      "Pharmaceuticals exports growth": "+5.65%",
+      "Marine products exports growth": "+11%",
+      "FDI in last six months": "$51 billion",
+      "UPI monthly transactions": "18 billion+",
+      "New CPI series release date": "February 12, 2026 (base year 2024)", 
+      "New GDP series release date": "February 27, 2026 (base year 2022-23)" 
+    },
+    "environment": {
+      "India solar capacity addition 2026": "50+ GW (6% increase YoY)",
+      "US solar installations 2026": "44 GW (14% decline)",
+      "India module manufacturing capacity": "~125 GW/year",
+      "India renewable capacity (solar + wind)": "crossed 180 GW",
+      "Battery energy storage target 2026": "~5 GWh (from 507 MWh in 2025)",
+      "Non-fossil fuel installed capacity": "51% of 495 GW total (June 2025)",
+      "Carbon sink target by 2030": "2.5-3 billion tonnes CO2-equivalent",
+      "Emissions intensity reduction achieved": "~36% by 2020",
+      "Similipal crocodile population 2026": "84 (up from 81 in 2025)",
+      "India vulture population decline": "97-99% crash in 1990s-2000s",
+      "Similipal National Park area": "~2,750 sq km"
+    },
+    "defense": {
+      "78th Army Day significance": "January 15, 1949 - FM Cariappa became first Indian C-in-C",
+      "Integrated Battle Group strength": "~5,000 troops each", 
+      "IBG mobilization capability": "48 hours", 
+      "IBG rollout timeline": "Full implementation by 2029", 
+      "17 Mountain Strike Corps": "Two divisions converting to Four IBGs", 
+      "Rafale F4 deal": "114 fighter jets",
+      "Rafale Made in India percentage": "~80% (approximately 91 jets)",
+      "First Rafale delivery from France": "18 jets from 2030",
+      "Made-in-India Rafale production start": "Late 2031/Early 2032",
+      "ITBP guards India-China border": "3,488 km",
+      "BSF guards India-Pakistan border": "3,323 km",
+      "BSF guards India-Bangladesh border": "4,096 km",
+      "Indian Army strength": "1.2 million personnel"
+    },
+    "social": {
+      "Maharashtra civic elections voters": "3.48-3.49 crore",
+      "Municipal corporation seats": "2,869 across 29 corporations",
+      "BMC seats": "227 wards, majority mark 114",
+      "Polling stations": "39,000+",
+      "Total candidates": "15,908-15,931",
+      "Paripoorna Mediclaim coverage": "Up to ₹20 lakh",
+      "Co-payment discount options": "28% (70:30) or 42% (50:50)",
+      "Cumulative bonus": "10% per claim-free year (max 100%)",
+      "Agriculture employment share": "45% of workforce",
+      "Agriculture GDP contribution": "~18%",
+      "Wheat MSP 2026-27": "Rs 2,585 per quintal",
+      "Nipah virus case fatality rate": "40-75%",
+      "Nipah contacts isolated": "120+ people",
+      "CSPOC participating nations": "53 national parliaments, 60+ delegations",
+      "Commonwealth population represented": "2.7 billion people"
+    }
+  },
+  "key_themes_for_mains": [
+    {
+      "theme": "India's Defense Transformation: From Legacy Structures to Agile Warfare Capability",
+      "description": "The convergence of 78th Army Day celebrations, IBG approval, and Rafale deal progress signals India's comprehensive military modernization. The shift from traditional divisions to Integrated Battle Groups represents the most significant restructuring since independence,  while the 'Year of Networking and Data Centricity' theme indicates transition to multi-domain warfare capabilities.",
+      "related_news_ids": [3, 4, 14],
+      "mains_relevance": "GS-III Security: Role of armed forces in national security, Defense modernization under Make in India, Border management challenges with China",
+      "answer_framework": [
+        "Introduction: Context of India's evolving security environment post-2020 Ladakh standoff",
+        "Body: Explain IBG concept (5,000 troops, 48-hour mobilization) vs traditional divisions; Discuss indigenization through Rafale deal (80% Make in India); Highlight technology integration (network-centric warfare)",
+        "Critical analysis: Challenges in implementation, budget constraints, personnel retraining needs",
+        "Conclusion: Link to Atmanirbhar Bharat and strategic autonomy objectives"
+      ]
+    },
+    {
+      "theme": "India's Clean Energy Leadership: Becoming Global Solar Powerhouse",
+      "description": "India overtaking the US as world's second-largest solar market, achieving 51% non-fossil fuel capacity exceeding NDC targets, and the Environment Minister's emphasis on forest conservation collectively demonstrate India's accelerating energy transition. The 180+ GW renewable capacity and 125 GW domestic manufacturing capability position India as both market and producer.",
+      "related_news_ids": [9, 10],
+      "mains_relevance": "GS-III Environment: Climate change mitigation, Renewable energy transition, International climate commitments; GS-II: India's role in global climate governance",
+      "answer_framework": [
+        "Introduction: India's NDC commitments and progress",
+        "Body: Quantify achievements (50+ GW solar addition, 51% non-fossil capacity, 180+ GW renewable); Explain manufacturing capabilities (125 GW module capacity); Discuss forest carbon sink target (2.5-3 billion tonnes CO2)",
+        "Critical analysis: Grid integration challenges, intermittency issues, just transition concerns",
+        "Conclusion: Link to Net-Zero 2070, 500 GW by 2030 target, global climate leadership"
+      ]
+    },
+    {
+      "theme": "Trade Diversification Amid Geopolitical Shifts: India-EU FTA and Export Resilience",
+      "description": "India's pursuit of EU FTA (20/24 chapters concluded), resilient export growth (+1.8%) despite 50% US tariffs, and the $850 billion export target illustrate strategic trade diversification. The exclusion of sensitive agriculture from EU talks while achieving strong growth in electronics (+16%) and pharma (+5.65%) shows calibrated trade policy.",
+      "related_news_ids": [5, 7, 8],
+      "mains_relevance": "GS-III Economy: International trade, FTAs, Export promotion; GS-II: Bilateral relations, Economic diplomacy",
+      "answer_framework": [
+        "Introduction: Context of US tariffs and need for market diversification",
+        "Body: EU FTA progress (20/24 chapters, $136.53 billion bilateral trade); Export performance analysis (services offsetting goods deficit); Sectoral strengths (electronics, pharma)",
+        "Critical analysis: Agriculture exclusion implications, CBAM challenges, services market access needs",
+        "Conclusion: Link to Viksit Bharat vision, $1 trillion merchandise export target by 2030"
+      ]
+    },
+    {
+      "theme": "Strengthening Federal Democracy: Local Governance and Constitutional Values",
+      "description": "Maharashtra's massive civic elections (29 corporations, 3.48 crore voters) alongside UGC's anti-discrimination regulations demonstrate India's evolving federal democracy. The elections tested 74th Amendment implementation while new UGC rules reinforce constitutional values of equality (Articles 14, 15) in higher education institutions.",
+      "related_news_ids": [2, 16],
+      "mains_relevance": "GS-II Polity: Local self-government, 74th Amendment, Constitutional values, Statutory bodies; GS-I Society: Caste discrimination and social justice",
+      "answer_framework": [
+        "Introduction: Importance of grassroots democracy and social justice",
+        "Body: Analyze 74th Amendment implementation through municipal elections; Discuss UGC regulations (EOCs, OBC inclusion, penalties); Link to constitutional vision of equality",
+        "Critical analysis: Implementation gaps in local governance, enforcement challenges for anti-discrimination rules",
+        "Conclusion: Connect to Directive Principles, inclusive development, constitutional morality"
+      ]
+    },
+    {
+      "theme": "Technology as Force Multiplier: AI Applications in Governance and Healthcare",
+      "description": "The CSPOC focus on Digital Public Infrastructure sharing, IIT Indore's 'Charak DT Platform' for disease detection, and Sansad Bhashini for multilingual parliamentary proceedings showcase India's emerging technological capabilities. These developments position technology as both domestic governance tool and international diplomatic asset.",
+      "related_news_ids": [1, 11],
+      "mains_relevance": "GS-III S&T: IT applications, AI developments; GS-II Governance: E-governance, DPI model",
+      "answer_framework": [
+        "Introduction: India's Digital Public Infrastructure as global model",
+        "Body: Explain DPI components (UPI: 18 billion transactions/month); Discuss AI healthcare applications (Digital Twin technology, NM-ICPS); Highlight parliamentary technology (Sansad Bhashini)",
+        "Critical analysis: Digital divide concerns, data privacy issues, implementation challenges",
+        "Conclusion: Link to IndiaAI Mission, responsible AI development, technology diplomacy"
+      ]
+    }
+  ]
+}
