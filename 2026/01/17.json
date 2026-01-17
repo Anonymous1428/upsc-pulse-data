@@ -1,0 +1,317 @@
+{
+  "date": "17 January 2026",
+  "total_news_items": 20,
+  "news_items": [
+    {
+      "id": 1,
+      "title": "UN High Seas Treaty (BBNJ Agreement) Enters Into Force Today",
+      "category": "Environment",
+      "description": "The Biodiversity Beyond National Jurisdiction (BBNJ) Agreement officially came into force on January 17, 2026, after achieving 60 ratifications. This landmark treaty covers nearly two-thirds of the global ocean beyond national jurisdiction, enabling creation of Marine Protected Areas on high seas and fair sharing of marine genetic resources.",
+      "upsc_significance": "GS Paper II (International Relations) & GS Paper III (Environment): Covers UNCLOS, Marine Protected Areas, Common Heritage of Humankind, 30x30 target. Four pillars: Marine Genetic Resources, MPAs, EIAs, Technology Transfer. India preparing domestic framework for ratification.",
+      "source": "UN News, IUCN, World Resources Institute",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "title": "Maharashtra Municipal Corporation Elections: BJP-led Mahayuti Sweeps 29 Corporations",
+      "category": "Politics",
+      "description": "BJP-led Mahayuti alliance won decisively in Maharashtra's municipal corporation elections, securing 1,425 of 2,869 seats across 29 civic bodies including BMC. This ends nearly 30-year Thackeray dominance in Mumbai.  Shiv Sena (Shinde) won 399 seats while Shiv Sena (UBT) was restricted to 153 seats.", 
+      "upsc_significance": "GS Paper II: Urban Local Bodies, 74th Constitutional Amendment, Article 243-W, Federalism. Exam angles: Decentralization of power, coalition politics in Maharashtra, urban governance reforms.",
+      "source": "The Hindu, India TV News",
+      "priority": "high"
+    },
+    {
+      "id": 3,
+      "title": "India-Japan 18th Strategic Dialogue: AI Dialogue and Critical Minerals Working Group Launched",
+      "category": "International Relations",
+      "description": "EAM Jaishankar and Japanese FM Toshimitsu Motegi co-chaired the 18th India-Japan Strategic Dialogue in New Delhi. Both countries launched a new AI dialogue and decided to convene a Joint Working Group on critical minerals. FM Motegi also met PM Modi, agreeing to elevate relations under 'Japan-India Joint Vision for the Next Decade.'",
+      "upsc_significance": "GS Paper II: India-Japan Special Strategic and Global Partnership, Indo-Pacific Strategy, FOIP, Quad. Key topics: Economic security, supply chain resilience, de-risking global economy, 75 years of diplomatic relations next year.", 
+      "source": "The Hans India, DD News, ANI",
+      "priority": "high"
+    },
+    {
+      "id": 4,
+      "title": "India-EU FTA Set for January 27 Signing - EU's Largest Trade Deal Ever",
+      "category": "Economy",
+      "description": "India and EU are poised to sign a landmark Free Trade Agreement on January 27, 2026 during EU leaders' Republic Day visit. 20 of 24 chapters have been finalized.  Agriculture has been deliberately excluded  due to India's domestic sensitivities. This will be India's 19th FTA and EU's largest trade pact ever.",
+      "upsc_significance": "GS Paper II (International Relations) & GS Paper III (Trade): FTA structure, India's trade diversification strategy, agricultural trade sensitivity, CBAM, market access negotiations. India-EU bilateral trade at ~$136 billion.", 
+      "source": "Business Standard, India Briefing",
+      "priority": "high"
+    },
+    {
+      "id": 5,
+      "title": "EU Leaders as Republic Day Chief Guests - First Time in History",
+      "category": "International Relations",
+      "description": "European Commission President Ursula von der Leyen and European Council President António Costa will jointly attend India's 77th Republic Day as chief guests - first time EU leaders jointly attend. Their visit (January 25-27) includes 16th India-EU Summit where the FTA is expected to be finalized.",
+      "upsc_significance": "GS Paper II: India-EU Strategic Partnership, multilateral forums. Europe views India as potential 'fourth pole' in geopolitical strategy amid global uncertainty. Key for understanding EU's pivot away from US dependence.",
+      "source": "The Tribune, The Wire",
+      "priority": "high"
+    },
+    {
+      "id": 6,
+      "title": "DRDO Achieves 12-Minute Scramjet Engine Ground Test - Hypersonic Missile Milestone",
+      "category": "Science & Technology",
+      "description": "DRDO successfully conducted a long-duration ground test of a full-scale, actively cooled scramjet engine, achieving unprecedented runtime of over 12 minutes. This advances India's Hypersonic Cruise Missile Programme under Project Vishnu, positioning India among select nations (US, Russia, China) with hypersonic capabilities.",
+      "upsc_significance": "GS Paper III: Defence Technology, Self-Reliance in Defence, Atmanirbhar Bharat. Technical: Scramjet vs Ramjet, Mach 5+ speed (>6,100 km/h), target range ~1,500 km at Mach 8. ET-LDHCM programme.",
+      "source": "DD News, The Week, Tribune India",
+      "priority": "high"
+    },
+    {
+      "id": 7,
+      "title": "South Asia Leads Global Growth Outlook; India Records 8.2% GDP Growth with 1.7% Inflation",
+      "category": "Economy",
+      "description": "WEF Chief Economists' Outlook ranks South Asia as brightest growth spot. Two-thirds expect strong growth for the region. India recorded 8.2% YoY real GDP growth  in Q2 FY26 alongside near-zero inflation (1.7%), which RBI Governor called a 'rare Goldilocks period' - optimal balance of high growth with low inflation.",
+      "upsc_significance": "GS Paper III: Indian Economy - Growth, Development, Employment. Topics: Goldilocks economy concept, inflation targeting, monetary policy framework. 53% expect global conditions to weaken, but India remains resilient.",
+      "source": "Tribune India, World Economic Forum",
+      "priority": "high"
+    },
+    {
+      "id": 8,
+      "title": "Supreme Court Recommends 'Romeo-Juliet Exception' in POCSO Act",
+      "category": "Governance",
+      "description": "Supreme Court urged Union Law Secretary to consider steps to prevent POCSO Act misuse in consensual adolescent relationships. Court recommended exploring a 'Romeo-Juliet clause' to exempt consensual sexual activity between teenagers close in age from criminal prosecution, noting the law creates a 'grim societal chasm.'",
+      "upsc_significance": "GS Paper II & IV: Judiciary, Social Justice, Child Rights, Legislative reforms, Ethical dilemmas. ~25% POCSO cases in Maharashtra, Assam, West Bengal (2016-2020) involved consensual relationships. Law Commission 2023 advised against lowering age to 16.",
+      "source": "Indian Express, NDTV",
+      "priority": "high"
+    },
+    {
+      "id": 9,
+      "title": "Bharat Forge Secures ₹300 Crore Indigenous Drone Contracts from Army, Navy",
+      "category": "Defense",
+      "description": "Bharat Forge Limited secured drone supply contracts worth ~₹300 crore from Indian Army and Navy under Emergency Procurement-VI framework. Contracts cover domestically developed Omega One, Omega Nine (ISR), Bayonet, and Cleaver (loitering munitions) drones. Total drone procurement post-Operation Sindoor exceeds Rs 5,000 crore.", 
+      "upsc_significance": "GS Paper III: Defence Indigenization, Make in India, Private sector in defence. Topics: Atmanirbhar Bharat, emergency procurement mechanisms, UAV capabilities, ISR platforms.",
+      "source": "SSBCrackExams, IDRW.org",
+      "priority": "high"
+    },
+    {
+      "id": 10,
+      "title": "PM Modi's Two-Day Assam Visit: Kaziranga Elevated Corridor, Bagurumba Dance",
+      "category": "Governance",
+      "description": "PM Modi visited Assam for two-day tour (January 17-18), flagging off Amrit Bharat trains, laying foundation for Kaziranga elevated corridor, and witnessing 'Bagurumba Dohow 2026' with 10,000 Bodo folk dancers.  Visit comes ahead of Assam assembly elections due in first half of 2026.",
+      "upsc_significance": "GS Paper II & III: Centre-State relations, Federalism, Scheduled Tribes (Bodo), Northeast development, Wildlife conservation (Kaziranga - UNESCO World Heritage). Topics: Bodo Accord 2020, infrastructure connectivity.",
+      "source": "Times Now, PMIndia.gov.in",
+      "priority": "medium"
+    },
+    {
+      "id": 11,
+      "title": "Coal Power Falls Simultaneously in China and India - First Time in 50 Years",
+      "category": "Environment",
+      "description": "According to Carbon Brief analysis, both China and India saw coal power generation fall in 2025, marking first simultaneous drop in half a century. The decline was driven by new clean-energy capacity additions being more than sufficient to meet rising demand.  India achieved 50.07% non-fossil fuel capacity.",
+      "upsc_significance": "GS Paper III: Climate Change, Energy Security, Energy Transition. Topics: Paris Agreement, NDCs, Just Transition. India's RE addition in 2025: 44.51 GW (highest-ever). Coal still provides ~75% of electricity generation despite capacity additions.",
+      "source": "Carbon Brief",
+      "priority": "high"
+    },
+    {
+      "id": 12,
+      "title": "National Critical Mineral Mission and Minerals Diplomacy - India Joins Pax Silica, MSP",
+      "category": "Economy",
+      "description": "India recalibrating global mineral strategy following NCMM launch in 2025 and China's tightening export controls.  India joined US-led Minerals Security Partnership (MSP) and newly formed Pax Silica initiative. Government allocated ₹34,300 crore sovereign fund for NCMM through 2031. India is 100% import-dependent for 10 critical minerals.",
+      "upsc_significance": "GS Paper II & III: Resource diplomacy, supply chain security, strategic autonomy. Topics: KABIL, critical minerals list, MSP (14-nation), Pax Silica. Domestic refined copper production up 43.5% in early FY26.",
+      "source": "The Hindu, InsightsIAS",
+      "priority": "high"
+    },
+    {
+      "id": 13,
+      "title": "ISRO PSLV-C62 Mission Fails - 16 Satellites Lost Including DRDO's Anvesha",
+      "category": "Science & Technology",
+      "description": "India's first space launch of 2026 ended in failure on January 12 when PSLV-C62 encountered third-stage (PS3) anomaly. This marks second consecutive PSLV failure involving third stage. Lost satellites include DRDO's EOS-N1 (Anvesha) for strategic surveillance and 15 co-passengers from India, Brazil, UK, Nepal, Spain, Thailand.",
+      "upsc_significance": "GS Paper III: Space Technology, Indigenous Capability. PSLV success rate: 58/64. Impact on NSIL's commercial credibility and Indian private space startups. May delay Gaganyaan uncrewed mission. Failure Analysis Committee formed.",
+      "source": "WION, SpaceNews, Business Standard",
+      "priority": "high"
+    },
+    {
+      "id": 14,
+      "title": "RBI Monetary Policy Shift: Repo Rate at 5.25% After 125 bps Cuts",
+      "category": "Economy",
+      "description": "RBI reduced repo rate by cumulative 125 bps in calendar year 2025 (from 6.5% to 5.25%), marking shift from rigid inflation targeting toward 'structuralist' approach prioritizing growth. RBI announced ₹1.9 lakh crore OMO purchases and $10 billion USD/INR swap auction to address liquidity deficit.",
+      "upsc_significance": "GS Paper III: Monetary Policy, Banking. Topics: Monetary policy transmission, flexible inflation targeting, liquidity management (OMO, VRR, Forex swaps). GNPA at 2.2% (multi-decadal low), S&P upgraded India to 'BBB'.",
+      "source": "RBI, IBEF, Business Standard",
+      "priority": "high"
+    },
+    {
+      "id": 15,
+      "title": "India-Germany Sign Joint Declaration on Defence Industrial Cooperation",
+      "category": "Defense",
+      "description": "During German Chancellor Friedrich Merz's visit (January 12-13), India and Germany signed Joint Declaration of Intent on Strengthening Bilateral Defence Industrial Cooperation. Marks shift from sporadic arms transactions to sustained collaboration including co-development, technology transfer, and co-production.",
+      "upsc_significance": "GS Paper II & III: Defense diplomacy, technology partnerships, European defense engagement. Coincides with 75 years diplomatic relations and 25 years Strategic Partnership. Helps diversify defense partnerships.",
+      "source": "Indian Defence News",
+      "priority": "high"
+    },
+    {
+      "id": 16,
+      "title": "PV Sindhu Elected Chair of BWF Athletes Commission (2026-2029)",
+      "category": "Sports",
+      "description": "Two-time Olympic medallist PV Sindhu has been elected Chair of the BWF Athletes Commission for 2026-2029 term. She will also serve as member of Badminton World Federation Council. Sindhu won Olympic Silver (Rio 2016) and Bronze (Tokyo 2020).",
+      "upsc_significance": "GS Paper II & III: Sports governance, international sports bodies. Important for women's representation in international sports administration. Exam angle: India's growing influence in global sports bodies.",
+      "source": "Testbook, Adda247",
+      "priority": "medium"
+    },
+    {
+      "id": 17,
+      "title": "National Sports Governance Rules 2026 Notified Under New Act",
+      "category": "Sports",
+      "description": "Central Government notified National Sports Governance (National Sports Bodies) Rules, 2026 under National Sports Governance Act, 2025. Rules provide framework for inclusion of Sportspersons of Outstanding Merit and composition of General Body and Executive Committee of sports federations.",
+      "upsc_significance": "GS Paper II: Government policies, Governance reforms. GS Paper III: Sports development. Topics: Sports administration reforms, transparency in National Sports Federations, athlete representation.",
+      "source": "DD News, News on Air",
+      "priority": "medium"
+    },
+    {
+      "id": 18,
+      "title": "Delhi Records Worst Winter Air Pollution in Nearly a Decade",
+      "category": "Environment",
+      "description": "Delhi recorded worst pollution in nearly a decade this winter with AQI above 300 on 88% of days in November-December 2025 - highest since 2017. India's PM2.5 concentration in 2024 was 50.6 µg/m³ (nearly 11x WHO guideline of 5 µg/m³). Environment Minister promised 15-20% reduction in NCR air pollution in 2026.",
+      "upsc_significance": "GS Paper III: Air Pollution, Disaster Management. GS Paper II: CAQM, GRAP measures. Topics: NCAP, SAFAR, CPCB. New study: aerosol pollution intensifies fog by 15-20%. Good air days improved to 200 in 2025-26 vs 116 in 2016.", 
+      "source": "India TV News, IQAir, Bloomberg",
+      "priority": "medium"
+    },
+    {
+      "id": 19,
+      "title": "NIDMS - National IED Data Management System Inaugurated by Home Minister",
+      "category": "Internal Security",
+      "description": "Union Home Minister inaugurated NIDMS - National Improvised Explosive Device Data Management System, described as 'next-generation shield against terrorism.' It integrates AI-enabled analytics and signature linking to detect patterns between terror attacks. Interoperable with CCTNS and NAFIS.",
+      "upsc_significance": "GS Paper III: Internal Security, Counter-terrorism. GS Paper II: Technology in governance. Topics: AI in security, data-driven counter-terrorism, interoperable security databases.",
+      "source": "Insights on India, Drishti IAS",
+      "priority": "high"
+    },
+    {
+      "id": 20,
+      "title": "6th All-India Tiger Census 2026 Begins at Thanthai Periyar Wildlife Sanctuary",
+      "category": "Environment",
+      "description": "India formally began 6th All-India Tiger Estimation (Tiger Census) 2026 at Thanthai Periyar Wildlife Sanctuary. Conducted every four years under Project Tiger (launched 1973). India hosts 70-75% of world's wild tigers. Last census (2022) recorded 3,682 tigers, achieving TX2 Initiative goal four years ahead of schedule.",
+      "upsc_significance": "GS Paper III: Biodiversity, Wildlife Conservation. Topics: Project Tiger, Tiger Reserves (53+), NTCA, M-STrIPES. TX2 Initiative: Goal of doubling tiger numbers achieved 4 years early.",
+      "source": "PIB, Universal Group Institutions",
+      "priority": "medium"
+    }
+  ],
+  "editorial_topics": [
+    {
+      "topic": "India's Minerals Diplomacy - Critical Minerals Security Amid China Dominance",
+      "newspaper": "The Hindu",
+      "upsc_syllabus": "GS Paper III: Economic Development, Resources, Energy Security"
+    },
+    {
+      "topic": "India-EU FTA: Strategic Realignment in Trade Policy",
+      "newspaper": "Business Standard / Indian Express",
+      "upsc_syllabus": "GS Paper II: International Relations; GS Paper III: Trade Policy"
+    },
+    {
+      "topic": "POCSO Act Reform - Romeo-Juliet Exception Debate",
+      "newspaper": "Indian Express",
+      "upsc_syllabus": "GS Paper II: Social Justice, Judiciary; GS Paper IV: Ethics"
+    },
+    {
+      "topic": "India's Space Ambitions: Challenges and the Way Forward Post-PSLV Failures",
+      "newspaper": "Multiple sources",
+      "upsc_syllabus": "GS Paper III: Science and Technology, Space Programme"
+    },
+    {
+      "topic": "Air Pollution in India: Structural Causes Beyond Farm Fires",
+      "newspaper": "Economic and Political Weekly",
+      "upsc_syllabus": "GS Paper III: Environment, Pollution; GS Paper II: Governance"
+    }
+  ],
+  "key_data_points": {
+    "economy": {
+      "gdp_growth_q2_fy26": "8.2% YoY",
+      "inflation_cpi": "1.7% (near-zero, below 4% target)",
+      "repo_rate_current": "5.25%",
+      "rate_cuts_in_2025": "125 bps (from 6.5%)",
+      "system_liquidity_deficit": "₹54,852 crore",
+      "omo_purchases": "₹1.9 lakh crore (~$22.30 billion)",
+      "usd_inr_swap": "$10 billion (3-year tenor)",
+      "gnpa_ratio": "2.2% (multi-decadal low)",
+      "sp_sovereign_rating": "BBB (upgraded August 2025)",
+      "fintech_lending_growth": "36.1%",
+      "india_eu_trade": "~$136 billion",
+      "india_germany_trade": "$50 billion (25% of India-EU trade)",
+      "infosys_q3_revenue": "₹45,479 crore (up 8.9% YoY)",
+      "tcs_q3_revenue": "₹67,087 crore (up 4.86% YoY)",
+      "sensex_jan_16": "83,568",
+      "ncmm_allocation": "₹34,300 crore (through 2031)",
+      "domestic_copper_production_growth": "+43.5% in early FY26",
+      "services_trade_surplus_dec": "$18.12 billion"
+    },
+    "environment": {
+      "non_fossil_capacity": "50.07% of installed capacity (242.8 GW)",
+      "total_installed_capacity": "484.82 GW",
+      "solar_capacity": "132.85 GW (+41% YoY)",
+      "wind_capacity": "51.6 GW (5.82 GW added in 2025)",
+      "re_addition_2025": "44.51 GW (highest-ever, nearly double 2024)",
+      "target_non_fossil_by_2030": "500 GW",
+      "battery_storage_demand_2029": "336 GWh",
+      "operational_storage": "500 MWh (September 2025)",
+      "rooftop_solar_capacity": "20.8 GW",
+      "module_manufacturing_capacity": "175 GW+",
+      "delhi_pm25_2024": "50.6 µg/m³ (11x WHO guideline)",
+      "who_pm25_guideline": "5 µg/m³",
+      "aqi_above_300_nov_dec": "88% of days (worst since 2017)",
+      "good_air_days_2025": "200 (vs 116 in 2016)",
+      "tiger_population_2022": "3,682 (up from 2,967 in 2018)",
+      "india_tiger_share": "70-75% of world's wild tigers",
+      "high_seas_treaty_ocean_coverage": "~66% of global ocean"
+    },
+    "defense": {
+      "bharat_forge_drone_contracts": "~₹300 crore",
+      "total_drone_procurement_post_op_sindoor": "₹5,000+ crore",
+      "scramjet_test_duration": "12+ minutes (720+ seconds)",
+      "hypersonic_speed_capability": "Mach 5+ (>6,100 km/h)",
+      "hypersonic_missile_target_range": "~1,500 km at Mach 8",
+      "rafale_production_nagpur": "Up to 24 aircraft/year by 2027-28",
+      "local_value_addition_rafale": ">70%",
+      "pslv_success_rate": "58/64 (4 failures in 33 years)",
+      "satellites_lost_pslv_c62": "16",
+      "air_marshal_kapoor_flying_hours": "3,400+"
+    },
+    "social": {
+      "pm_kisan_annual_benefit": "₹6,000 (3 installments of ₹2,000)",
+      "agriculture_gdp_contribution": "~18%",
+      "agriculture_employment_share": "44-46% of workforce",
+      "food_grain_production_2024_25": "353.96 million tonnes (record)",
+      "foodgrain_target_2025_26": "362.50 million tonnes",
+      "milk_production_2023_24": "239.30 million tonnes",
+      "fisheries_production_2024_25": "195 lakh tonnes",
+      "food_processing_exports_july_2025": "$49.4 billion",
+      "maharashtra_muni_election_seats": "2,869 across 29 corporations",
+      "bjp_seats_won_maharashtra": "1,425",
+      "padma_awards_max_per_year": "120 (excluding foreigners/posthumous)",
+      "census_2027_pe_phase": "February 2027"
+    }
+  },
+  "key_themes_for_mains": [
+    {
+      "theme": "India's Strategic Autonomy Through Resource and Technology Diplomacy",
+      "description": "Multiple news items today highlight India's evolving strategy to secure strategic autonomy through critical minerals diplomacy (joining Pax Silica, MSP), technology partnerships (India-Japan AI dialogue, India-Germany defense cooperation), and indigenous defense development (DRDO scramjet, Bharat Forge drones).",
+      "related_news_ids": [3, 6, 9, 12, 15],
+      "mains_relevance": "GS Paper II (International Relations) & GS Paper III (Defense, Economic Development). Questions on: How India is balancing strategic partnerships while maintaining autonomy; Role of technology in foreign policy; Defense indigenization.",
+      "answer_framework": "• Introduction: Define strategic autonomy in multipolar world\n• Multilateral partnerships: MSP, Pax Silica, Quad - balance between alignment and autonomy\n• Technology dimension: AI cooperation, defense tech transfer, critical minerals\n• Indigenous capability: DRDO hypersonics, private sector (Bharat Forge)\n• Challenges: Dependence on imports for 10 critical minerals, balancing US-Russia-China\n• Conclusion: Strategic autonomy through diversification, not isolation"
+    },
+    {
+      "theme": "India's Green Energy Transition: Progress Amid Contradictions",
+      "description": "Today's news reveals both progress and contradictions in India's energy transition: coal power falls simultaneously in India and China (first in 50 years), record 44.51 GW RE addition in 2025, yet coal still provides 75% of electricity and Delhi faces worst air pollution in a decade.",
+      "related_news_ids": [11, 18, 20],
+      "mains_relevance": "GS Paper III (Environment, Energy). Questions on: India's energy transition challenges; Balancing development with environment; Just transition for coal-dependent regions.",
+      "answer_framework": "• Introduction: India's dual challenge - development needs vs climate commitments\n• Achievements: 50.07% non-fossil capacity, 44.51 GW RE addition (highest ever)\n• Contradictions: 75% electricity still from coal despite capacity additions\n• Air pollution: AQI>300 on 88% Nov-Dec days - structural urban causes\n• Solutions: Battery storage (336 GWh needed by 2029), grid integration\n• Conclusion: Transition underway but requires systemic changes"
+    },
+    {
+      "theme": "India-EU Strategic Convergence: Economic and Geopolitical Realignment",
+      "description": "The unprecedented visit of both EU top leaders as Republic Day chief guests, imminent signing of India-EU FTA (EU's largest ever), and discussions on India as 'fourth pillar' in European strategy signal major geopolitical realignment amid global uncertainty.",
+      "related_news_ids": [4, 5],
+      "mains_relevance": "GS Paper II (International Relations). Questions on: Evolution of India-EU relations; Role of trade in strategic partnerships; European pivot amid US uncertainty.",
+      "answer_framework": "• Introduction: Historic nature of joint EU leadership visit\n• FTA dimensions: $136 billion trade, 20/24 chapters done, agriculture excluded\n• Geopolitical context: EU's 'fourth pillar' concept, de-risking from China\n• Strategic issues: CBAM, carbon border adjustments, rules of origin\n• India's gains: Market access, technology cooperation, diversification\n• Conclusion: India-EU partnership as model of values-based multilateralism"
+    },
+    {
+      "theme": "Technology in Governance and Security: AI, Data Systems, and Democratic Accountability",
+      "description": "From the 28th CSPOC discussions on AI in democratic institutions to NIDMS for counter-terrorism to Supreme Court's POCSO recommendations, today's news highlights the intersection of technology with governance, security, and justice.",
+      "related_news_ids": [8, 19],
+      "mains_relevance": "GS Paper II (Governance, Judiciary) & GS Paper IV (Ethics). Questions on: AI in governance; Technology in law enforcement; Balancing security with rights.",
+      "answer_framework": "• Introduction: Digital transformation of governance and security\n• AI in democracy: CSPOC 28th conference - ethical AI frameworks needed\n• Security technology: NIDMS - AI analytics for counter-terrorism\n• Judicial reform: Technology revealing POCSO Act misuse patterns\n• Ethical concerns: Privacy, algorithmic bias, democratic accountability\n• Conclusion: Need for governance frameworks that balance innovation with rights"
+    },
+    {
+      "theme": "India's Space and Hypersonic Programmes: Setbacks and Advances",
+      "description": "The PSLV-C62 failure (second consecutive third-stage anomaly)  contrasts sharply with DRDO's successful 12-minute scramjet test, highlighting both vulnerabilities in established programmes and breakthroughs in emerging technologies.",
+      "related_news_ids": [6, 13],
+      "mains_relevance": "GS Paper III (Science & Technology, Defense). Questions on: Challenges in space programme; Indigenous defense technology development; Managing failures in strategic programmes.",
+      "answer_framework": "• Introduction: Dual narrative - PSLV setback vs scramjet success\n• PSLV challenges: 2 consecutive PS3 failures, impact on commercial credibility\n• Hypersonic breakthrough: 12-minute test, Mach 8 capability, elite club entry\n• Systemic issues: Quality control, over-reliance on legacy systems\n• Lessons: Failure as learning opportunity, importance of technology diversification\n• Conclusion: India's strategic technology portfolio needs parallel development paths"
+    }
+  ]
+}
